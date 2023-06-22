@@ -1,0 +1,1 @@
+This notebook shows some exploratory analysis and visualisation analysis for the World Happiness Reports from the years 2015 until 2019, then applies a Multiple Linear Regression model to predict country's Happiness Score and determine which factors are influence this score.
