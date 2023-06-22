@@ -1,0 +1,1 @@
+This notebook is about the Amazon Top 50 Bestselling Books 2009 – 2019. The Dataset contains 550 books. Data has been categorized into fiction and non-fiction using Goodreads. The analysis of this Dataset will allow us have a deep understanding of the book market trends over the past decade.
