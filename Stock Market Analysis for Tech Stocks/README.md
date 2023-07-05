@@ -1,4 +1,4 @@
-##Stock Market Analysis for Tech Stocks.
+# Stock Market Analysis for Tech Stocks
 
 In this project, we'll analyse data from the stock market for some technology stocks.
 
